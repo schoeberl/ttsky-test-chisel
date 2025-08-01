@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is just a template test
 
 ## How to test
 
-Explain how to use your project
+1. Clone the repository
+2. Install the required dependencies
+3. Run the testbench using your preferred simulator
 
 ## External hardware
 
